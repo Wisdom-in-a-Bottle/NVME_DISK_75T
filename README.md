@@ -1,8 +1,7 @@
-# PCILeech-DMA-NVMEDISK
-Quantumstealth open source NVMEDISK firmware.
+## FPGA NVME DISK 75T
 
-Quantumstealth discord:https://discord.gg/qslab
+Just open source, all credits to [@pcileech_fpga](https://github.com/ufrisk/pcileech-fpga)
 
-## For more engineering documents`pcileech_enigma_x1.srcs`,please contact me on discord.
+## This is free firmware
 
-Spiderlab is a group of scammers. We have never known them and have never sold our team.
+It comes with 0 warranty
